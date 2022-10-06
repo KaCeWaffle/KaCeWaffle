@@ -27,7 +27,5 @@
 
 ### 📊 Stats
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaCeWaffle&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KaCeWaffle&theme=gruvbox&border_radius=4.5) -->
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaCeWaffle)](https://github.com/KaCeWaffle/github-readme-stats)
 
