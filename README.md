@@ -27,5 +27,5 @@
 
 ### 📊 Stats
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaCeWaffle)](https://github.com/KaCeWaffle/github-readme-stats)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaCeWaffle&show_icons=true&theme=dracula)
 
