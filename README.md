@@ -1,10 +1,10 @@
-# Kevin Charles
+# 🧑‍🎨Kevin Charles
 
 **`Cyber Security Undergraduate Student / Graphic Designer`**
 
 <p align="center"> I am Graphic Designer who seeks for Computer Science knowledges, specially in Cyber Security. Having experiences in leading an IT Student Organization and Freelance Graphic Designer makes good impact on me, and i'm hoping for experiences in Cyber Security. I'm a enthusiast learner that always take learning as a fun activity to do and never stop learning something new.</p>
 
-### About Me
+### 📖 About Me
 <ul>
 <li>Graphic Designer utilizing Photoshop and Premiere Pro well</li>
 <li>Currently learning Cyber Security Blue-Team knowledges</li>
